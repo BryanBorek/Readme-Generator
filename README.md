@@ -1,26 +1,17 @@
-# Title
+# 09 Readme Generator
 
-## Description
+## Work smarter not harder!
 
+```
 This is a readme generator with the following title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
+```
 
-## Table of Contents
+## Mock-up
 
+![Readme Gen mockup](assets/readmeGenMockup.png)
 
-## Table of Contents
+## Links
 
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+Github repository link: https://github.com/BryanBorek/06-Weather-Dashboard
 
-## Installation
-## Usage
-## License
-## Contributing
-## Tests
-## Questions
-
+Link to deployed site: https://bryanborek.github.io/06-Weather-Dashboard/
